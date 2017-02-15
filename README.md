@@ -1,1 +1,1 @@
-data repository for Learning Data Science Phoenix Pandas lesson
+data repository for Learn Data Science Phoenix Pandas lesson
